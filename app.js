@@ -4,9 +4,9 @@ let noun = ['jogger', 'racoon'];
 
 
 for (let i = 0; i < pronoun.length; i++) {
-    for (let j = 0; j < adj.length; j++) {
-    for (let s = 0; s < noun.length; s++) {
-    console.log(pronoun[i]+adj[j]+noun[s] + ".com");
+    for (let d = 0; d < adj.length; d++) {
+    for (let n = 0; n < noun.length; n++) {
+    console.log(pronoun[i]+adj[d]+noun[n] + ".com");
 }
 }
 }
